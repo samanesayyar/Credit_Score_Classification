@@ -3,6 +3,3 @@
 # Dataset
   Dataset based on the credit score classification submitted by Rohan Paris on Kaggle.
   https://www.kaggle.com/parisrohan
-
-
-
